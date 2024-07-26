@@ -8,27 +8,27 @@ To run the application you need to have installed python and pymprog (pip instal
 
 The file tree is this
 
--project.py
--README
--Report - Final Project in the course Linear and Combinatorial Optimization.docx
--texts -f1.txt
-	f2.txt
-	f3.txt
-	f4.txt
-	f5.txt
-	f6.txt
-	f7.txt
-	f8.txt
-	f9.txt
-	s1.txt
-	s2.txt
-	s3.txt
-	s4.txt
-	s5.txt
-	s6.txt
-	s7.txt
-	s8.txt
-	s9.txt
+-project.py <br />
+-README <br />
+-Report - Final Project in the course Linear and Combinatorial Optimization.docx <br />
+-texts -f1.txt <br />
+	f2.txt <br />
+	f3.txt <br />
+	f4.txt <br />
+	f5.txt <br />
+	f6.txt <br />
+	f7.txt <br />
+	f8.txt <br />
+	f9.txt <br />
+	s1.txt <br />
+	s2.txt <br />
+	s3.txt <br />
+	s4.txt <br />
+	s5.txt <br />
+	s6.txt <br />
+	s7.txt <br />
+	s8.txt <br />
+	s9.txt <br />
 
 
 The theoretical analysis of the problem is in the file "Report - Final Project in the course Linear and Combinatorial Optimization.docx".
