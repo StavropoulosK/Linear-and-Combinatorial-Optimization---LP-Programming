@@ -33,6 +33,6 @@ The file tree is this
 
 The theoretical analysis of the problem is in the file "Report - Final Project in the course Linear and Combinatorial Optimization.docx".
 **To set up the application you need to have 9 finnish texts and save them respectively to files f1.txt ... f9.txt  and 9 swedish texts
-and save them to files s1.txt ... s9.txt **. The application is the file project.py and it uses f1.txt ... f6.txt and s1.txt ... s6.txt for training
+and save them to files s1.txt ... s9.txt**. The application is the file project.py and it uses f1.txt ... f6.txt and s1.txt ... s6.txt for training
 of the model and the other files as a test set to predict their language. It displays the predicted results for the texts in the test set, which 
 are the texts f7.txt, f8.txt, f9.txt, s7.txt, s8.txt, s9.txt. It uses two models for training and displays the predicted results for both.
