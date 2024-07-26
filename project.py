@@ -243,8 +243,8 @@ def evaluate(coeff):
 
         response=''
 
-        if(g_value>=1):response='Finland'
-        elif(g_value>=0): response='Finland probably'
+        if(g_value>=1):response='Finnish'
+        elif(g_value>=0): response='Finnish probably'
         elif(g_value<=-1): response='Swedish'            
         elif(g_value<=0): response='Swedish probably'   
 
